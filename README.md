@@ -1,5 +1,3 @@
-## Hello! I'm Myles 👋
-
-I'm a software developer looking for my first junior role having just finished the Northcoders software development bootcamp!
+## Hello! I'm Myles, a frontend developer at BrightHR 👋
 
 Please check out my pinned projects below :)
